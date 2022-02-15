@@ -10,36 +10,36 @@ To develop a python control code to move the mobilerobot along the predefined pa
 ## Procedure
 
 Step1:
-```
+
  Initiate the MobileRobot. 
- ```
+
 
 <br/>
 
 Step2:
-```
+
 Connect your PC with the MobileRobot.
-```
+
 
 <br/>
 
 Step3:
-```
+
 Open Python program.
-```
+
 
 <br/>
 
 Step4:
-```
+
 Program the movements of the robot using python code.
-```
+
 <br/>
 
 Step5:
-```
+
  Execute the python program.
-```
+
 
 <br/>
 
@@ -107,7 +107,7 @@ Insert image here
 
 Upload your video in Youtube and paste your video-id here
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/jlGng4v_pc0)
+[![(https://youtu.be/jlGng4v_pc0](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/jlGng4v_pc0)
 
 <br/>
 <br/>
