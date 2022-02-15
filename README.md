@@ -107,7 +107,7 @@ Insert image here
 
 Upload your video in Youtube and paste your video-id here
 
-[![(https://youtu.be/jlGng4v_pc0](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/jlGng4v_pc0)
+[![https://youtu.be/jlGng4v_pc0](https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg)](https://youtu.be/jlGng4v_pc0)
 
 <br/>
 <br/>
